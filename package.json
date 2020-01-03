@@ -44,7 +44,7 @@
     "lodash": ">=0.6.1",
     "evernote": "1.25.0",
     "jsdom": "0.8.2",
-    "marked": "0.2.9",
+    "marked": "0.8.0",
     "iconv": "2.0.6",
     "html2markdown": "1.1.0",
     "juice": "0.4.0"
